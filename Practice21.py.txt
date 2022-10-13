@@ -1,0 +1,4 @@
+marksobtained = 415
+totalmarks = 470
+percentage = marksobtained/totalmarks*100
+print(percentage)

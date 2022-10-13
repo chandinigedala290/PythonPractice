@@ -1,0 +1,10 @@
+def output(a,b):
+
+    a = 560
+    b = 222
+    c = a*b
+    d = c+100
+    e = d/5
+    print('the result:' , d)
+
+output(560,222)

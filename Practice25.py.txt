@@ -1,0 +1,8 @@
+def output(a,b):
+
+    c = a*b
+    d = c+100
+    e = d/5
+    print('the result:' , e)
+
+output(10,7)
